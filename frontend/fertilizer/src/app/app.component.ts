@@ -1,10 +1,3 @@
-import { Component } from '@angular/core';
-
-@Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
-})
-export class AppComponent {
-  title = 'fertilizer';
-}
+var map = d3.geomap()
+    .geofile('/d3-geomap/topojson/world/countries.json')
+    .draw(d3.select('#map'));
