@@ -1,0 +1,1017 @@
+[
+ {
+   "Name": "Angola",
+   "Fertilizer Import From Russia": 20.1,
+   "Wealth Index": "6,878",
+   "Country Code": "AGO",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Albania",
+   "Fertilizer Import From Russia": 69.1,
+   "Wealth Index": "15,225",
+   "Country Code": "ALB",
+   "Region": "Europe"
+ },
+ {
+   "Name": "United Arab Emirates",
+   "Fertilizer Import From Russia": 6.1,
+   "Wealth Index": "59,844",
+   "Country Code": "ARE",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Argentina",
+   "Fertilizer Import From Russia": 18.4,
+   "Wealth Index": "22,141",
+   "Country Code": "ARG",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Armenia",
+   "Fertilizer Import From Russia": 41.3,
+   "Wealth Index": "13,638",
+   "Country Code": "ARM",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Australia",
+   "Fertilizer Import From Russia": 8.6,
+   "Wealth Index": "54,891",
+   "Country Code": "AUS",
+   "Region": "Oceania"
+ },
+ {
+   "Name": "Austria",
+   "Fertilizer Import From Russia": 0.2,
+   "Wealth Index": "57,891",
+   "Country Code": "AUT",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Azerbaijan",
+   "Fertilizer Import From Russia": 85,
+   "Wealth Index": "14,856",
+   "Country Code": "AZE",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Burundi",
+   "Fertilizer Import From Russia": 22.3,
+   "Wealth Index": "772",
+   "Country Code": "BDI",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Belgium",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "53,973",
+   "Country Code": "BEL",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Benin",
+   "Fertilizer Import From Russia": 34.3,
+   "Wealth Index": "3,573",
+   "Country Code": "BEN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Burkina Faso",
+   "Fertilizer Import From Russia": 63.6,
+   "Wealth Index": "2,334",
+   "Country Code": "BFA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Bangladesh",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "5,733",
+   "Country Code": "BGD",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Bulgaria",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "25,471",
+   "Country Code": "BGR",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Bosnia and Herzegovina",
+   "Fertilizer Import From Russia": 3.8,
+   "Wealth Index": "15,935",
+   "Country Code": "BIH",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Belize",
+   "Fertilizer Import From Russia": 1.7,
+   "Wealth Index": "6,133",
+   "Country Code": "BLZ",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Bolivia",
+   "Fertilizer Import From Russia": 17.1,
+   "Wealth Index": "8,832",
+   "Country Code": "BOL",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Brazil",
+   "Fertilizer Import From Russia": 21.7,
+   "Wealth Index": "15,643",
+   "Country Code": "BRA",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Barbados",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "14,329",
+   "Country Code": "BRB",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Brunei",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "64,405",
+   "Country Code": "BRN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Central African Republic",
+   "Fertilizer Import From Russia": 90.8,
+   "Wealth Index": "1,013",
+   "Country Code": "CAF",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Canada",
+   "Fertilizer Import From Russia": 22.7,
+   "Wealth Index": "51,713",
+   "Country Code": "CAN",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Switzerland",
+   "Fertilizer Import From Russia": 5.2,
+   "Wealth Index": "75,880",
+   "Country Code": "CHE",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Chile",
+   "Fertilizer Import From Russia": 9.3,
+   "Wealth Index": "24,928",
+   "Country Code": "CHL",
+   "Region": "Americas"
+ },
+ {
+   "Name": "China",
+   "Fertilizer Import From Russia": 6.4,
+   "Wealth Index": "18,931",
+   "Country Code": "CHN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Ivory Coast",
+   "Fertilizer Import From Russia": 59.5,
+   "Wealth Index": "5,642",
+   "Country Code": "CIV",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Cameroon",
+   "Fertilizer Import From Russia": 39.1,
+   "Wealth Index": "3,745",
+   "Country Code": "CMR",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Democratic Republic of the Congo",
+   "Fertilizer Import From Russia": 8.1,
+   "Wealth Index": "",
+   "Country Code": "COD",
+   "Region": ""
+ },
+ {
+   "Name": "Republic of Congo",
+   "Fertilizer Import From Russia": 39.6,
+   "Wealth Index": "",
+   "Country Code": "COG",
+   "Region": ""
+ },
+ {
+   "Name": "Colombia",
+   "Fertilizer Import From Russia": 28,
+   "Wealth Index": "15,184",
+   "Country Code": "COL",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Costa Rica",
+   "Fertilizer Import From Russia": 53.3,
+   "Wealth Index": "20,667",
+   "Country Code": "CRI",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Cuba",
+   "Fertilizer Import From Russia": 5.2,
+   "Wealth Index": "N/A",
+   "Country Code": "CUB",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Cyprus",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "41,595",
+   "Country Code": "CYP",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Czech Republic",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "42,956",
+   "Country Code": "CZE",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Germany",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "56,956",
+   "Country Code": "DEU",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Denmark",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "61,478",
+   "Country Code": "DNK",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Dominican Republic",
+   "Fertilizer Import From Russia": 14.8,
+   "Wealth Index": "19,799",
+   "Country Code": "DOM",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Algeria",
+   "Fertilizer Import From Russia": 17.4,
+   "Wealth Index": "11,433",
+   "Country Code": "DZA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Ecuador",
+   "Fertilizer Import From Russia": 54.3,
+   "Wealth Index": "11,331",
+   "Country Code": "ECU",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Egypt",
+   "Fertilizer Import From Russia": 3.2,
+   "Wealth Index": "13,083",
+   "Country Code": "EGY",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Spain",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "41,546",
+   "Country Code": "ESP",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Estonia",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "39,729",
+   "Country Code": "EST",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Ethiopia",
+   "Fertilizer Import From Russia": 5.6,
+   "Wealth Index": "2,973",
+   "Country Code": "ETH",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Finland",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "51,867",
+   "Country Code": "FIN",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Fiji",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "12,298",
+   "Country Code": "FJI",
+   "Region": "Oceania"
+ },
+ {
+   "Name": "France",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "49,492",
+   "Country Code": "FRA",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Gabon",
+   "Fertilizer Import From Russia": 15.5,
+   "Wealth Index": "16,244",
+   "Country Code": "GAB",
+   "Region": "Africa"
+ },
+ {
+   "Name": "UK",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "",
+   "Country Code": "GBR",
+   "Region": ""
+ },
+ {
+   "Name": "Georgia",
+   "Fertilizer Import From Russia": 60.6,
+   "Wealth Index": "15,709",
+   "Country Code": "GEO",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Ghana",
+   "Fertilizer Import From Russia": 46.8,
+   "Wealth Index": "5,968",
+   "Country Code": "GHA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Guinea",
+   "Fertilizer Import From Russia": 16.5,
+   "Wealth Index": "2,731",
+   "Country Code": "GIN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Gambia",
+   "Fertilizer Import From Russia": 2.4,
+   "Wealth Index": "2,384",
+   "Country Code": "GMB",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Equatorial Guinea",
+   "Fertilizer Import From Russia": 10.3,
+   "Wealth Index": "18,236",
+   "Country Code": "GNQ",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Greece",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "30,495",
+   "Country Code": "GRC",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Guatemala",
+   "Fertilizer Import From Russia": 19.8,
+   "Wealth Index": "8,648",
+   "Country Code": "GTM",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Guyana",
+   "Fertilizer Import From Russia": 16.7,
+   "Wealth Index": "23,258",
+   "Country Code": "GUY",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Honduras",
+   "Fertilizer Import From Russia": 63.2,
+   "Wealth Index": "5,698",
+   "Country Code": "HND",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Croatia",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "29,777",
+   "Country Code": "HRV",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Hungary",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "35,088",
+   "Country Code": "HUN",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Indonesia",
+   "Fertilizer Import From Russia": 1.1,
+   "Wealth Index": "12,882",
+   "Country Code": "IDN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "India",
+   "Fertilizer Import From Russia": 2.1,
+   "Wealth Index": "7,333",
+   "Country Code": "IND",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Ireland",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "99,239",
+   "Country Code": "IRL",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Iran",
+   "Fertilizer Import From Russia": 0.3,
+   "Wealth Index": "13,513",
+   "Country Code": "IRN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Iraq",
+   "Fertilizer Import From Russia": 0,
+   "Wealth Index": "10,038",
+   "Country Code": "IRQ",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Iceland",
+   "Fertilizer Import From Russia": 5.8,
+   "Wealth Index": "58,151",
+   "Country Code": "ISL",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Israel",
+   "Fertilizer Import From Russia": 34.6,
+   "Wealth Index": "42,570",
+   "Country Code": "ISR",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Italy",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "43,376",
+   "Country Code": "ITA",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Jordan",
+   "Fertilizer Import From Russia": 0.1,
+   "Wealth Index": "10,590",
+   "Country Code": "JOR",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Japan",
+   "Fertilizer Import From Russia": 0.7,
+   "Wealth Index": "44,585",
+   "Country Code": "JPN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Kazakhstan",
+   "Fertilizer Import From Russia": 79.9,
+   "Wealth Index": "27,560",
+   "Country Code": "KAZ",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Kenya",
+   "Fertilizer Import From Russia": 1.5,
+   "Wealth Index": "5,274",
+   "Country Code": "KEN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Kyrgyzstan",
+   "Fertilizer Import From Russia": 39,
+   "Wealth Index": "5,323",
+   "Country Code": "KGZ",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Cambodia",
+   "Fertilizer Import From Russia": 0.2,
+   "Wealth Index": "4,930",
+   "Country Code": "KHM",
+   "Region": "Asia"
+ },
+ {
+   "Name": "South Korea",
+   "Fertilizer Import From Russia": 0.4,
+   "Wealth Index": "47,027",
+   "Country Code": "KOR",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Kuwait",
+   "Fertilizer Import From Russia": 2.4,
+   "Wealth Index": "41,507",
+   "Country Code": "KWT",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Laos",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "8,519",
+   "Country Code": "LAO",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Lebanon",
+   "Fertilizer Import From Russia": 14,
+   "Wealth Index": "11,564",
+   "Country Code": "LBN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Liberia",
+   "Fertilizer Import From Russia": 71.5,
+   "Wealth Index": "1,602",
+   "Country Code": "LBR",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Sri Lanka",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "13,909",
+   "Country Code": "LKA",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Lithuania",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "40,784",
+   "Country Code": "LTU",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Luxembourg",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "122,740",
+   "Country Code": "LUX",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Latvia",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "33,394",
+   "Country Code": "LVA",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Morocco",
+   "Fertilizer Import From Russia": 42.7,
+   "Wealth Index": "8,027",
+   "Country Code": "MAR",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Moldova",
+   "Fertilizer Import From Russia": 83.9,
+   "Wealth Index": "13,879",
+   "Country Code": "MDA",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Madagascar",
+   "Fertilizer Import From Russia": 0.1,
+   "Wealth Index": "1,639",
+   "Country Code": "MDG",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Mexico",
+   "Fertilizer Import From Russia": 27.7,
+   "Wealth Index": "20,266",
+   "Country Code": "MEX",
+   "Region": "Americas"
+ },
+ {
+   "Name": "North Macedonia",
+   "Fertilizer Import From Russia": 8.6,
+   "Wealth Index": "17,663",
+   "Country Code": "MKD",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Mali",
+   "Fertilizer Import From Russia": 44.2,
+   "Wealth Index": "2,469",
+   "Country Code": "MLI",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Malta",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "45,042",
+   "Country Code": "MLT",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Myanmar",
+   "Fertilizer Import From Russia": 0.4,
+   "Wealth Index": "4,831",
+   "Country Code": "MMR",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Montenegro",
+   "Fertilizer Import From Russia": 4.6,
+   "Wealth Index": "21,355",
+   "Country Code": "MNE",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Mongolia",
+   "Fertilizer Import From Russia": 95.7,
+   "Wealth Index": "12,431",
+   "Country Code": "MNG",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Mozambique",
+   "Fertilizer Import From Russia": 18.5,
+   "Wealth Index": "1,293",
+   "Country Code": "MOZ",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Mauritania",
+   "Fertilizer Import From Russia": 25.6,
+   "Wealth Index": "5,993",
+   "Country Code": "MRT",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Mauritius",
+   "Fertilizer Import From Russia": 14.3,
+   "Wealth Index": "22,030",
+   "Country Code": "MUS",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Malawi",
+   "Fertilizer Import From Russia": 0.6,
+   "Wealth Index": "1,005",
+   "Country Code": "MWI",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Malaysia",
+   "Fertilizer Import From Russia": 2.1,
+   "Wealth Index": "29,340",
+   "Country Code": "MYS",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Namibia",
+   "Fertilizer Import From Russia": 12.3,
+   "Wealth Index": "9,542",
+   "Country Code": "NAM",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Niger",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "1,320",
+   "Country Code": "NER",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Nigeria",
+   "Fertilizer Import From Russia": 31.2,
+   "Wealth Index": "5,280",
+   "Country Code": "NGA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Nicaragua",
+   "Fertilizer Import From Russia": 65.7,
+   "Wealth Index": "5,648",
+   "Country Code": "NIC",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Netherlands",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "60,461",
+   "Country Code": "NLD",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Norway",
+   "Fertilizer Import From Russia": 2,
+   "Wealth Index": "69,171",
+   "Country Code": "NOR",
+   "Region": "Europe"
+ },
+ {
+   "Name": "New Zealand",
+   "Fertilizer Import From Russia": 0.3,
+   "Wealth Index": "44,226",
+   "Country Code": "NZL",
+   "Region": "Oceania"
+ },
+ {
+   "Name": "Oman",
+   "Fertilizer Import From Russia": 5.7,
+   "Wealth Index": "30,404",
+   "Country Code": "OMN",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Pakistan",
+   "Fertilizer Import From Russia": 0.8,
+   "Wealth Index": "5,973",
+   "Country Code": "PAK",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Panama",
+   "Fertilizer Import From Russia": 52.6,
+   "Wealth Index": "30,388",
+   "Country Code": "PAN",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Peru",
+   "Fertilizer Import From Russia": 55.7,
+   "Wealth Index": "12,985",
+   "Country Code": "PER",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Philippines",
+   "Fertilizer Import From Russia": 0.3,
+   "Wealth Index": "9,061",
+   "Country Code": "PHL",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Poland",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "35,957",
+   "Country Code": "POL",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Portugal",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "36,079",
+   "Country Code": "PRT",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Paraguay",
+   "Fertilizer Import From Russia": 9.6,
+   "Wealth Index": "13,454",
+   "Country Code": "PRY",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Qatar",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "97,262",
+   "Country Code": "QAT",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Romania",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "32,950",
+   "Country Code": "ROU",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Rwanda",
+   "Fertilizer Import From Russia": 0.9,
+   "Wealth Index": "2,458",
+   "Country Code": "RWA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Saudi Arabia",
+   "Fertilizer Import From Russia": 3.2,
+   "Wealth Index": "48,099",
+   "Country Code": "SAU",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Sudan",
+   "Fertilizer Import From Russia": 0,
+   "Wealth Index": "4,082",
+   "Country Code": "SDN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Senegal",
+   "Fertilizer Import From Russia": 19,
+   "Wealth Index": "3,625",
+   "Country Code": "SEN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Singapore",
+   "Fertilizer Import From Russia": 83.5,
+   "Wealth Index": "102,742",
+   "Country Code": "SGP",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Sierra Leone",
+   "Fertilizer Import From Russia": 23.4,
+   "Wealth Index": "1,771",
+   "Country Code": "SLE",
+   "Region": "Africa"
+ },
+ {
+   "Name": "El Salvador",
+   "Fertilizer Import From Russia": 24.2,
+   "Wealth Index": "8,891",
+   "Country Code": "SLV",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Serbia",
+   "Fertilizer Import From Russia": 33.6,
+   "Wealth Index": "20,545",
+   "Country Code": "SRB",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Suriname",
+   "Fertilizer Import From Russia": 56.6,
+   "Wealth Index": "14,703",
+   "Country Code": "SUR",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Slovakia",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "34,815",
+   "Country Code": "SVK",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Slovenia",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "40,820",
+   "Country Code": "SVN",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Sweden",
+   "Fertilizer Import From Russia": 33.5,
+   "Wealth Index": "55,566",
+   "Country Code": "SWE",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Seychelles",
+   "Fertilizer Import From Russia": 5.4,
+   "Wealth Index": "26,119",
+   "Country Code": "SYC",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Chad",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "1,621",
+   "Country Code": "TCD",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Togo",
+   "Fertilizer Import From Russia": 16.6,
+   "Wealth Index": "2,261",
+   "Country Code": "TGO",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Thailand",
+   "Fertilizer Import From Russia": 0.2,
+   "Wealth Index": "19,004",
+   "Country Code": "THA",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Tajikistan",
+   "Fertilizer Import From Russia": 3.5,
+   "Wealth Index": "3,856",
+   "Country Code": "TJK",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Turkmenistan",
+   "Fertilizer Import From Russia": 0.1,
+   "Wealth Index": "17,415",
+   "Country Code": "TKM",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Trinidad",
+   "Fertilizer Import From Russia": null,
+   "Wealth Index": "",
+   "Country Code": "TTO",
+   "Region": ""
+ },
+ {
+   "Name": "Tunisia",
+   "Fertilizer Import From Russia": 7.8,
+   "Wealth Index": "10,594",
+   "Country Code": "TUN",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Turkey",
+   "Fertilizer Import From Russia": 5.7,
+   "Wealth Index": "32,278",
+   "Country Code": "TUR",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Tanzania",
+   "Fertilizer Import From Russia": 19.2,
+   "Wealth Index": "2,863",
+   "Country Code": "TZA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Uganda",
+   "Fertilizer Import From Russia": 1.2,
+   "Wealth Index": "2,706",
+   "Country Code": "UGA",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Ukraine",
+   "Fertilizer Import From Russia": 33.8,
+   "Wealth Index": "13,943",
+   "Country Code": "UKR",
+   "Region": "Europe"
+ },
+ {
+   "Name": "Uruguay",
+   "Fertilizer Import From Russia": 7.6,
+   "Wealth Index": "23,474",
+   "Country Code": "URY",
+   "Region": "Americas"
+ },
+ {
+   "Name": "USA",
+   "Fertilizer Import From Russia": 22.4,
+   "Wealth Index": "68,309",
+   "Country Code": "USA",
+   "Region": "Americas"
+ },
+ {
+   "Name": "Uzbekistan",
+   "Fertilizer Import From Russia": 9.2,
+   "Wealth Index": "7,830",
+   "Country Code": "UZB",
+   "Region": "Asia"
+ },
+ {
+   "Name": "Vietnam",
+   "Fertilizer Import From Russia": 2,
+   "Wealth Index": "11,677",
+   "Country Code": "VNM",
+   "Region": "Asia"
+ },
+ {
+   "Name": "South Africa",
+   "Fertilizer Import From Russia": 4.5,
+   "Wealth Index": "12,442",
+   "Country Code": "ZAF",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Zambia",
+   "Fertilizer Import From Russia": 2.5,
+   "Wealth Index": "3,322",
+   "Country Code": "ZMB",
+   "Region": "Africa"
+ },
+ {
+   "Name": "Zimbabwe",
+   "Fertilizer Import From Russia": 15,
+   "Wealth Index": "2,698",
+   "Country Code": "ZWE",
+   "Region": "Africa"
+ }
+]
